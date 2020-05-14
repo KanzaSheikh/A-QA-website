@@ -1,0 +1,55 @@
+/* 
+.askaquestion
+{
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 25px;
+  padding-left: 25px;
+  background: orange;   
+}
+.list-group
+{
+  margin-top: 30px;
+  margin-right: 20px;
+  margin-bottom: 80px;
+  margin-left: 0px;
+   
+}
+.verticalLine {
+  border-right: thin solid #797474;
+}
+.verticalline{
+  border-left: thin solid #797474;
+}
+.horizontalLine{
+  border-top: thin solid #797474;
+  border-bottom: thin solid #797474;
+}
+.AllQuestions{
+  color: #4e4a4a;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+  margin-left: 10px;
+}
+.votes
+{
+  border-left: thin solid #797474;
+  border-right: thin solid #797474;
+}
+body{
+  padding-top: 50px;
+  }
+  .createanaccount{
+    padding-top: 20px;
+    padding-right: 160px;  
+  }
+  .userid{
+    padding-left: 20px;
+    margin-left: 20px; 
+    float: right;
+  } */
